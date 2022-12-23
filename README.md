@@ -6,6 +6,8 @@ Front End Web Developer and IoT-ML enthusiast
 
 I've been doing web development for a while now and designing new webpages with unique ideas and projects has always inspired me. I am a keen as well as a quick learner. I am interested to learn more languages and App Development.
 
+I am currently learning and updating my skills of Machine Learning and Data Analytics.
+
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [My Portfolio](http://rishika-afk.github.io/My-First-Portfolio/)
 * ✉️  You can contact me at [gupta06rishika@gmail.com](mailto:gupta06rishika@gmail.com)
