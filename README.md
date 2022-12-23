@@ -1,7 +1,7 @@
 Hi 👋 My name is Rishika Gupta
 ==============================
 
-Front End Web Developer and IoT enthusiast
+Front End Web Developer and IoT-ML enthusiast
 ------------------------------------------
 
 I've been doing web development for a while now and designing new webpages with unique ideas and projects has always inspired me. I am a keen as well as a quick learner. I am interested to learn more languages and App Development.
