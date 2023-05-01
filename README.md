@@ -9,7 +9,6 @@ I've been doing web development for a while now and designing new webpages with 
 I am currently learning and updating my skills of Machine Learning and Data Analytics.
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [My Portfolio](http://rishika-afk.github.io/My-First-Portfolio/)
 * ✉️  You can contact me at [gupta06rishika@gmail.com](mailto:gupta06rishika@gmail.com)
 * 🚀  I'm currently working on [IoT Based Smart Stick for Blind-Deaf](http://IoT Based Smart Stick for Blind-Deaf)
 * 🧠  I'm learning IoT and ML, Augmented Reality
