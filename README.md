@@ -1,7 +1,7 @@
 Hi 👋 My name is Rishika Gupta
 ==============================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=716AF7&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%A4%96+Data+Scientist;%F0%9F%93%83+Data+Analyst;%F0%9F%96%8C%EF%B8%8F+UI%2FUX+Designer;%F0%9F%93%B2+IoT+Developer;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93Student+%2F+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=716AF7&center=false&vCenter=true&width=435&lines=%F0%9F%92%BB+Front-End+Developer;%F0%9F%A4%96+Data+Scientist;%F0%9F%93%83+Data+Analyst;%F0%9F%96%8C%EF%B8%8F+UI%2FUX+Designer;%F0%9F%93%B2+IoT+Developer;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93Student+%2F+Developer" alt="Typing SVG" /></a>
 ------------------------------------------
 
 I've been doing web development for a while now and designing and working on projects with unique ideas has always inspired me. I am believed to be creative and I love to learn new things. I am interested to learn more languages and App Development, and also travel to Hogwarts!
