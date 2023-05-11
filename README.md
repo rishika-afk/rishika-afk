@@ -8,7 +8,7 @@ I've been doing web development for a while now and designing and working on pro
 
 I am currently working on some cool Deep and Machine Learning projects, and learning the fundamentals of the job of a Data Analyst.
 
-* 🌍  I'm based in Chennai
+* 🌍  I'm based in India
 * ✉️  You can contact me at [gupta06rishika@gmail.com](mailto:gupta06rishika@gmail.com)
 * 🚀  I'm currently working on Land Assessment for Protected Land- DL based project, and am designing UI for a new cool app soon to be launched :D
 * 🧠  I'm constantly learning.
