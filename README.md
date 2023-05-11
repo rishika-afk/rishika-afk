@@ -10,9 +10,9 @@ I am currently working on some cool Deep and Machine Learning projects, and lear
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [gupta06rishika@gmail.com](mailto:gupta06rishika@gmail.com)
-* 🚀  I'm currently working on [IoT Based Smart Stick for Blind-Deaf](http://IoT Based Smart Stick for Blind-Deaf)
-* 🧠  I'm learning IoT and ML, Augmented Reality
-* 🤝  I'm open to collaborating on Web Development projects, IoT projects
+* 🚀  I'm currently working on Land Assessment for Protected Land- DL based project, and am designing UI for a new cool app soon to be launched :D
+* 🧠  I'm constantly learning.
+* 🤝  I'm open to collaboratin on some cool projects based on Web Dev, Design or Deep Learning.
 
 ### Skills
 
